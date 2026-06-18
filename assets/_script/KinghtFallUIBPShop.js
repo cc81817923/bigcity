@@ -460,6 +460,10 @@ var def_KinghtFallUIBPShop = function (t) {
     if (this._buying) { return; }
     if (item.goodsId === 2 && riskCorrection === 0) { return; }
 
+    // TODO: 临时mock购买，上线前删除
+    this._onPurchaseSuccess({ diamonds: item.diamonds });
+    return;
+
     var mgr = $z1BPPayMgr.BPPayMgr.getInstance();
     if (!mgr.customerId) { return; }
 

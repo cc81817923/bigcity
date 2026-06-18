@@ -56,7 +56,7 @@ var def_Main = function (t) {
     mgr.init({
       productId: "C660001",
       appId: "2170020271082263",
-      gameServerUrl: "https://api.superarchitect.top"
+      gameServerUrl: "https://api.yayagame.top"
     });
     this._verifyBPToken(mgr);
 

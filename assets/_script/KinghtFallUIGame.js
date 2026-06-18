@@ -206,7 +206,13 @@ var def_KinghtFallUIGame = function (t) {
         t.onPauseGame(false);
       });
     });
-    if (this.btnTest) { this.btnTest.active = false; }
+    // TODO: 临时调试按钮，上线前删除
+    if (this.btnTest) {
+      this.btnTest.active = true;
+      var winLabel = this.btnTest.getComponentInChildren(cc.Label);
+      if (winLabel) { winLabel.string = "WIN"; }
+      this.btnTest.on(cc.Node.EventType.TOUCH_END, function () { t.onGameOver(true); });
+    }
   };
   _ctor.prototype.onClose = function () {
     $z1UIMgr.UIMgr.getInstance().getUIById($z1KinghtFallConfig.KinghtFallUIID.UIHome).node.active = true;

@@ -74,7 +74,7 @@ var def_Loading = function (t) {
     $z1AudioMgr.AudioMgr.getInstance().init($z1Config.AudioCF);
     $z1EventMgr.EventMgr.getInstance().on($z1Appcfg.BaseEventName.Loading, this, this.setProcessLoad);
     // TODO: 临时清档，上线前删除
-    //localStorage.clear();
+    localStorage.clear();
 
     $z1SdkMgr.SdkMgr.getInstance().requestCheckVersion(function () {
       $z1ServerDataMgr.ServerdataMgr.init(function () {

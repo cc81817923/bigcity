@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yz_BUFF_05",
+    "texture": "74f92e0f-1117-4365-a953-7e39b9493f9d",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      59,
+      71
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      66,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

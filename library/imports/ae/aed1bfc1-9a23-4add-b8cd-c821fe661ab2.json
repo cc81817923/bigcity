@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lg_40",
+    "texture": "55d687f5-d4fd-4f09-a899-2ca887988e33",
+    "atlas": "",
+    "rect": [
+      15,
+      21,
+      100,
+      101
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      128,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dh_skill_blood",
+    "texture": "ac19ad61-d441-4c77-8850-7fe45e809bac",
+    "atlas": "",
+    "rect": [
+      2,
+      20,
+      441,
+      423
+    ],
+    "offset": [
+      0,
+      -9
+    ],
+    "originalSize": [
+      445,
+      445
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

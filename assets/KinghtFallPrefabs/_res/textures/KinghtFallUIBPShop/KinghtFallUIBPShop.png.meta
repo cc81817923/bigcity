@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fe5118ef-8971-4089-bc90-857d2bb88737",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1672,
+  "height": 2508,
+  "platformSettings": {},
+  "subMetas": {
+    "KinghtFallUIBPShop": {
+      "ver": "1.0.6",
+      "uuid": "ced1bb69-dfa7-4606-b4ec-012910fce6a7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fe5118ef-8971-4089-bc90-857d2bb88737",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 80,
+      "offsetY": -79.5,
+      "trimX": 178,
+      "trimY": 183,
+      "width": 1476,
+      "height": 2301,
+      "rawWidth": 1672,
+      "rawHeight": 2508,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

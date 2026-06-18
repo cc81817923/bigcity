@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gby_2_1",
+    "texture": "e7a254fd-76fd-4f83-9c98-0bfc89e728a7",
+    "atlas": "",
+    "rect": [
+      9,
+      74,
+      542,
+      466
+    ],
+    "offset": [
+      -15,
+      -23.5
+    ],
+    "originalSize": [
+      590,
+      567
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

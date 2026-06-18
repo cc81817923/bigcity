@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wq_swcq_jian",
+    "texture": "a096301c-465c-40c7-bbe0-b4df75d9e834",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      35,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

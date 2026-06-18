@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_kbx",
+    "texture": "75351eb1-def0-4bd4-a77c-ad50740d916c",
+    "atlas": "",
+    "rect": [
+      2,
+      46,
+      507,
+      464
+    ],
+    "offset": [
+      0,
+      -22.5
+    ],
+    "originalSize": [
+      511,
+      511
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

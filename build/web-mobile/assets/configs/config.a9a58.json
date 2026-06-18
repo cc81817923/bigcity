@@ -1,0 +1,1 @@
+{"paths":{"0":["GameJsonCfg.json",1],"1":["GameJsonCfg",0]},"types":["cc.JsonAsset","cc.Asset"],"uuids":["7dGRTqCh9L8qL8ZLFQgGLc","f3NrZ69+xG9aRzrglAYZEk"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"configs","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"f93af",1,"55cab"],"native":[0,"f1008"]}}

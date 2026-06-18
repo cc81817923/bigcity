@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_lead_shenti",
+    "texture": "ae440da9-30ab-4da9-8725-b09f0901870e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      94,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

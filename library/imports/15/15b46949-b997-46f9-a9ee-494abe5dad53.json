@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_yanwu",
+    "texture": "576ec757-7007-47a5-b6cd-8fe3f2841e42",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      360,
+      265
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      364,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

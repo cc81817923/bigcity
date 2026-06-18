@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "投石车拖尾",
+    "texture": "08d16b37-823a-4fef-ba8d-95eefb2d3b04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

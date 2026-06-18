@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wq_bx",
+    "texture": "60f4900b-10a6-427a-9289-155e66962a7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

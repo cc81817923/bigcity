@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_lead_rise",
+    "texture": "c5d880a5-5d59-40b6-9da3-22be873d72b7",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      115,
+      54
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      121,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

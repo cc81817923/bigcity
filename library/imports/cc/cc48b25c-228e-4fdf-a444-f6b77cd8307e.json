@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_fh_btd",
+    "texture": "e9aea8fe-9aa0-4059-bf78-c95d6aaff2d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

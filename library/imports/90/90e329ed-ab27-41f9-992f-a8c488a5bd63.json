@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加载页",
+    "texture": "ed745878-cffc-4e05-ab46-9463be7f1946",
+    "atlas": "",
+    "rect": [
+      16,
+      8,
+      1,
+      1
+    ],
+    "offset": [
+      8,
+      -4
+    ],
+    "originalSize": [
+      17,
+      9
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

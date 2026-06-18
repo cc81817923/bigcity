@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buff_ts2",
+    "texture": "3e8d7abd-e121-486c-97ad-955bc99430b1",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      129,
+      39
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      129,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

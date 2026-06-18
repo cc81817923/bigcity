@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero12_bullet1",
+    "texture": "2883fce8-3ffb-498a-9b0e-c39551d1a507",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

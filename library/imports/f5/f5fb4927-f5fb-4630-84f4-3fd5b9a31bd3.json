@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "王权陨落主角灵魂拖尾 ",
+    "texture": "fa7d5a84-04b1-4f62-ba31-bd4a2bf46085",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

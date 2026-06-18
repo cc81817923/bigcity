@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_cbl_an2",
+    "texture": "f427b76b-d576-4200-9b45-9e260745bd81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

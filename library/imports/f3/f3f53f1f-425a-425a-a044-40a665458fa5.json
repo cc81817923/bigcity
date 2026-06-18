@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_zd_dr6",
+    "texture": "7673f1df-db0a-4762-a0bd-806342086f35",
+    "atlas": "",
+    "rect": [
+      14,
+      12,
+      49,
+      58
+    ],
+    "offset": [
+      0.5,
+      -3
+    ],
+    "originalSize": [
+      76,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

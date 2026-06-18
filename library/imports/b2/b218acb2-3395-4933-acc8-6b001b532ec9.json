@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_zd_drtsj",
+    "texture": "bf2386bb-3b08-4b70-9665-5e314bcf1631",
+    "atlas": "",
+    "rect": [
+      36,
+      0,
+      58,
+      40
+    ],
+    "offset": [
+      0,
+      45
+    ],
+    "originalSize": [
+      130,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

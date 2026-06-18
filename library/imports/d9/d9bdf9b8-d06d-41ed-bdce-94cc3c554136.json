@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_lead_jian",
+    "texture": "5ef31d2f-41f5-4e06-a64a-3f6a2f2cc738",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      312,
+      101
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      316,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

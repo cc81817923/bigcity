@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_xsyd_dk",
+    "texture": "974d2030-c09c-4f2b-9a7f-f274b30cab58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      603,
+      237
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      603,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

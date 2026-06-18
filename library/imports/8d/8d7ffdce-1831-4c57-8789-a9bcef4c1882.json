@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_dlw_gong_vip1",
+    "texture": "3624ffe2-d992-4b2f-b10f-8ae767a32429",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      607,
+      257
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      612,
+      261
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

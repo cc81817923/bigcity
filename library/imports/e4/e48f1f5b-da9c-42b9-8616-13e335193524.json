@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lj_xsyd_dian",
+    "texture": "12c90a99-65a5-4aa0-8e71-f1c62c26dcbd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      581,
+      255
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      585,
+      259
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

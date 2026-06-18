@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wq_debuff",
+    "texture": "75ddb73e-d216-48c7-97e4-7710b51966f8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      245,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

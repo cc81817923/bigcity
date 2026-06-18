@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wqyl_lead_die",
+    "texture": "34ab9265-31e2-4311-ae11-f8e655fb008a",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      270,
+      1019
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      275,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

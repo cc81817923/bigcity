@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KinghtFallUIBPShop",
+    "texture": "fe5118ef-8971-4089-bc90-857d2bb88737",
+    "atlas": "",
+    "rect": [
+      178,
+      183,
+      1476,
+      2301
+    ],
+    "offset": [
+      80,
+      -79.5
+    ],
+    "originalSize": [
+      1672,
+      2508
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

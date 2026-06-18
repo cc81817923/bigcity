@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wg_zy_icon1",
+    "texture": "031878ac-a8a4-46ad-99e6-94a881b74203",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

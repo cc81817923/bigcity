@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/_script/director.js"],"names":["console","log"],"mappings":";;;;;;AAAA;AACAA,OAAO,CAACC,GAAR","sourceRoot":"/","sourcesContent":["// Empty stub file\nconsole.log(`empty file`)"]}

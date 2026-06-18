@@ -1,0 +1,7 @@
+🐰 Keploy: 2026-05-26T23:14:14.363219+08:00 	[34mINFO[0m	Starting Keploy	{"version": "3.5.23", "apiServerURL": "https://api.keploy.io", "inDocker": false}
+🐰 Keploy: 2026-05-26T23:17:46.059635+08:00 	[34mINFO[0m	Starting Keploy	{"version": "3.5.23", "apiServerURL": "https://api.keploy.io", "inDocker": false}
+🐰 Keploy: 2026-05-26T23:17:50.99979+08:00 	[31mERROR[0m	failed to validate oss flags; review the provided command flags and configuration, then retry	{"error": "non docker command not supported for OS: darwin , Arch: amd64"}
+🐰 Keploy: 2026-05-26T23:17:50.999884+08:00 	[31mERROR[0m	failed to validate flags	{"error": "non docker command not supported for OS: darwin , Arch: amd64"}
+🐰 Keploy: 2026-05-26T23:18:57.577609+08:00 	[34mINFO[0m	Starting Keploy	{"version": "3.5.23", "apiServerURL": "https://api.keploy.io", "inDocker": false}
+🐰 Keploy: 2026-05-26T23:18:59.51308+08:00 	[31mERROR[0m	failed to validate oss flags; review the provided command flags and configuration, then retry	{"error": "non docker command not supported for OS: darwin , Arch: amd64"}
+🐰 Keploy: 2026-05-26T23:18:59.513156+08:00 	[31mERROR[0m	failed to validate flags	{"error": "non docker command not supported for OS: darwin , Arch: amd64"}
